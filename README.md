@@ -301,7 +301,6 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
       <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 
-```
 <a href="https://www.linkedin.com/in/nikhil-siddartha-7347b532b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -309,7 +308,6 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 <a href="https://leetcode.com/u/nikhilsiddarthaa21/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-```
 
   </p>
 
