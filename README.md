@@ -130,7 +130,7 @@ Developing scalable web applications from frontend to backend.
 </p> -->
 
 
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
@@ -266,4 +266,208 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
   ⭐ If you find my work helpful, consider <strong>starring my repositories</strong> — it means a lot!
 </p>
 
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/> -->
+
+
+
+
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Nikhil Siddartha</strong>
+</h1>
+
+<h3>⚔️ Competitive Programmer • 🧠 DSA Specialist • 🤖 ML Engineer • 🌐 Full Stack Developer</h3>
+
+<div align="left">
+  <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I engineer efficient algorithms, build intelligent ML systems, and develop scalable full-stack applications.  
+    My core strength lies in <strong>hardcore problem solving</strong>, writing <strong>highly optimized code</strong>, and designing systems that perform at scale.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚡_Hardcore_DSA_|_CP-111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤖_ML_|_AI_Projects-111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Full_Stack_Developer-111?style=for-the-badge" />
+  </p>
+
+  <h3>🔗 Connect With Me</h3>
+
+  <p align="left">
+    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+
+```
+<a href="https://www.linkedin.com/in/nikhil-siddartha-7347b532b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/nikhilsiddarthaa21/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+```
+
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<br clear="all" />
+
+---
+
+# 🧠 DSA & Competitive Programming (Core Identity)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python" />
+</p>
+
+### ⚔️ Problem Solving Arsenal
+
+* 1000+ DSA problems solved across platforms
+* Strong in: Arrays, Strings, Recursion, Binary Search
+* Advanced: Trees, Graphs, DP, Greedy
+* Expert topics: Segment Trees, Bitmasking, Sliding Window
+* Writing optimized O(n) / O(log n) solutions
+* Contest-level thinking & debugging
+
+### 🏆 Competitive Mindset
+
+* Regular LeetCode practice (medium + hard)
+* Pattern recognition mastery
+* Speed + accuracy focus
+* Clean & optimal implementations
+* Preparing for top product-based companies
+
+---
+
+# 📊 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nikhilsiddarthaa21?theme=dark&font=Nunito&ext=heatmap" />
+</div>
+
+---
+
+# 🤖 Machine Learning & AI
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+### Capabilities
+
+* Machine Learning model building & evaluation
+* ANN & deep learning fundamentals
+* Feature engineering & preprocessing
+* Real-time ML systems
+
+### Projects
+
+* Driver fatigue detection system
+* ANN churn prediction
+* Classification & prediction systems
+* Real-time intelligent detection models
+
+---
+
+# 🌐 Full Stack Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,tailwind,bootstrap" />
+</p>
+
+### Full Stack Strength
+
+* MERN stack development
+* REST API architecture
+* Authentication systems
+* MongoDB & Firebase integration
+* CRUD & scalable web apps
+* Performance optimized backend logic
+
+### Notable Builds
+
+* Notes management web app (auth + firestore)
+* Travel listing CRUD platform
+* ML integrated web systems
+* Full stack production-ready apps
+
+---
+
+# 🧰 Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp" />
+</p>
+
+* Git & GitHub version control
+* Postman API testing
+* VS Code development
+* Debugging & deployment
+* Cloud basics
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical&hide_border=true"/>
+</div>
+
+---
+
+# 🚀 Current Domination Path
+
+<p align="center">
+<img src="https://img.shields.io/badge/DSA-Advanced_DP_|_Graphs_|_Segment_Tree-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Competitive_Programming-Rating_Up-orange?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Machine_Learning-Real_Time_AI_Systems-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack-Scalable_Apps-green?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧩 Developer Mindset
+
+> Solve Hard.
+> Optimize Harder.
+> Repeat Until Legendary.
+
+---
+
+# ❤️ Support
+
+<p align="center">
+⭐ Star repositories if you find them useful — it helps and means a lot!
+</p>
+
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
