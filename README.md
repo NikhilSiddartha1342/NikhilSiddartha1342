@@ -270,7 +270,6 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 
 
 
-
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
@@ -278,7 +277,7 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
   Hi, I'm <strong>Nikhil Siddartha</strong>
 </h1>
 
-<h3>⚔️ Competitive Programmer • 🧠 DSA Specialist • 🤖 ML Engineer • 🌐 Full Stack Developer</h3>
+<h3> ⚔️🧠 DSA Specialist • 🤖 ML Engineer • 🌐 Full Stack Developer⚔️ </h3>
 
 <div align="left">
   <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -298,7 +297,7 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
   <h3>🔗 Connect With Me</h3>
 
   <p align="left">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/NikhilSiddartha1342">
       <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 
@@ -314,7 +313,7 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NikhilSiddartha1342&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <br clear="all" />
@@ -419,10 +418,10 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilSiddartha1342&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSiddartha1342&layout=compact&theme=radical&hide_border=true" height="165"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=NikhilSiddartha1342&theme=radical&hide_border=true"/>
 </div>
 
 ---
@@ -430,7 +429,7 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 # 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NikhilSiddartha1342&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -438,7 +437,7 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 # 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilSiddartha1342&theme=redical&hide_border=true"/>
 </div>
 
 ---
@@ -462,6 +461,14 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 > Repeat Until Legendary.
 
 ---
+
+# ❤️ Support
+
+<p align="center">
+⭐ Star repositories if you find them useful — it helps and means a lot!
+</p>
+
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 # ❤️ Support
 
