@@ -470,11 +470,5 @@ Version Control • API Testing • Cloud Deployment • UI/UX Design
 
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-# ❤️ Support
 
-<p align="center">
-⭐ Star repositories if you find them useful — it helps and means a lot!
-</p>
-
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
