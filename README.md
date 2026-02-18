@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
@@ -127,4 +127,143 @@ Developing scalable web applications from frontend to backend.
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
+</p> -->
+
+
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Nikhil</strong>
+</h1>
+
+<h3> DSA Enthusiast • Full Stack Developer • Machine Learning Explorer</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I build scalable full-stack applications, solve complex algorithmic problems, and explore machine learning to create intelligent systems.<br/>
+    Passionate about writing optimized code, designing efficient systems, and turning ideas into high-performance digital products.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🧠_DSA_|_ML_|_Full--Stack-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collaborate-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏆_1000+_Problems_Solved-1e1e2e?style=for-the-badge" />
+  </p>
+
+  <h3>🌐 Connect With Me</h3>
+
+  <p align="left">
+    <a href="https://github.com/NikhilSiddartha1342">
+      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/nikhil-siddartha-7347b532b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:nikhilsiddartha21@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge" />
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<br clear="all" />
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>🧠 DSA & Competitive Programming</h3>
+<img src="https://skillicons.dev/icons?i=cpp,java,python" />
+<br/><br/>
+<strong>1000+ Problems Solved</strong><br/>
+Arrays • Strings • Trees • Graphs • DP • Segment Trees • Bitmasking
+</td>
+
+<td width="50%" align="center">
+<h3>🤖 Machine Learning & AI</h3>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+<br/><br/>
+ANN • Classification • Prediction • Feature Engineering<br/>
+Real-time ML Projects (Fatigue Detection & more)
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🌐 Full Stack Development</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,tailwind,bootstrap" />
+<br/><br/>
+MERN Stack • REST APIs • Auth Systems • Responsive UI
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp" />
+<br/><br/>
+Version Control • API Testing • Cloud Deployment • UI/UX Design
+</td>
+</tr>
+</table>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="160" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 🚀 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_DSA-Segment_Trees_%7C_Graphs_%7C_DP-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML_%26_AI_Projects-Real--time_Systems-blue?style=for-the-badge" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Full_Stack-Scalable_Applications-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design_%26_Optimization-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true" />
+</div>
+
+---
+
+## ❤️ Support
+
+<p align="center">
+  ⭐ If you find my work helpful, consider <strong>starring my repositories</strong> — it means a lot!
+</p>
+
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
